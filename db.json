@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": "f810",
+      "name": "Hugo"
+    },
+    {
+      "id": "0901",
+      "name": "Paco"
+    },
+    {
+      "id": "09a3",
+      "name": "Luis"
+    },
+    {
+      "id": "4549",
+      "name": "Mickey"
+    },
+    {
+      "id": "5876",
+      "name": "Tribilin"
+    },
+    {
+      "id": "f2f4",
+      "name": "Catalina"
+    },
+    {
+      "id": "f96d",
+      "name": "John"
+    },
+    {
+      "id": "c0ad",
+      "name": "Carlos"
+    }
+  ]
+}
